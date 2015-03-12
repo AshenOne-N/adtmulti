@@ -229,3 +229,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# vs files
+*.sdf
+*.sln
+*.cbp
+*.vcxproj
+*.filters
+*.layout
